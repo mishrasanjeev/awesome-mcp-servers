@@ -163,6 +163,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Google Cloud Run](https://github.com/GoogleCloudPlatform/cloud-run-mcp)** - Official MCP Server to deploy to [Google Cloud Run](https://cloud.google.com/run).
 - **[GoLogin MCP server](https://github.com/gologinapp/gologin-mcp)** - Manage your GoLogin browser profiles and automation directly through AI conversations!
 - **[gotoHuman](https://github.com/gotohuman/gotohuman-mcp-server)** - Human-in-the-loop platform - Allow AI agents and automations to send requests for approval to your [gotoHuman](https://www.gotohuman.com) inbox.
+- **[Grantex MCP](https://github.com/mishrasanjeev/grantex/tree/main/packages/mcp)** - 13 tools for delegated AI agent authorization — scoped permissions, token management, audit logs, budget controls, and grant delegation via the Grantex protocol.
 - **[Grafana](https://github.com/grafana/mcp-grafana)** - Search dashboards, investigate incidents and query datasources in your Grafana instance
 - **[Graphlit](https://github.com/graphlit/graphlit-mcp-server)** - Ingest anything from Slack to Gmail to podcast feeds, in addition to web crawling, into a searchable [Graphlit](https://www.graphlit.com) project.
 - **[GreptimeDB](https://github.com/GreptimeTeam/greptimedb-mcp-server)** - Provides AI assistants with a secure and structured way to explore and analyze data in [GreptimeDB](https://github.com/GreptimeTeam/greptimedb).
